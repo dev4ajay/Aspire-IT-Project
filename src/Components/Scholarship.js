@@ -335,7 +335,7 @@ function Scholarship() {
   <div>
 <div class="line">
   
-  <h2 style={{fontWeight: 'bold' , color: '#000'}}>Scholarship for Classroom Programme : 2023-24</h2>
+  <h2 style={{fontWeight: 'bold' , color: '#000' }}>Scholarship for Classroom Programme : 2023-24</h2>
 <div class="skyblue"></div>
 
 <br/>
@@ -350,7 +350,7 @@ function Scholarship() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Based on X / XII Board Percentage Chart ?</div>
+            <div className='mt-3'>Based on X / XII Board Percentage Chart ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -506,7 +506,7 @@ function Scholarship() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Based on X / XII Board Percentage Chart ?</div>
+            <div className='mt-3'>Based on X / XII Board Percentage Chart ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -574,7 +574,7 @@ function Scholarship() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Based on X / XII Board Percentage Chart ?</div>
+            <div className='mt-3'>Based on X / XII Board Percentage Chart ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">

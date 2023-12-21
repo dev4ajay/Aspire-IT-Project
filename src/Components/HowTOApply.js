@@ -343,21 +343,26 @@ function HowToApply() {
             <div class="skyblue"></div>
    <div class="para terms_mains">
 
-   
+   <div className='d-flex gap-1' >
     <img src={require("../Assets/image/downloding.jpeg")} alt="" className='apply_img' />
-    <p>You can collect admission form from our study centers. (SIKAR, ALWAR & JAIPUR) </p>  
+    <p style={{color:'#737E86' ,fontSize:'16px'}}>You can collect admission form from our study centers. (SIKAR, ALWAR & JAIPUR) </p>  
+    </div>
        <div class="black"></div>
+       <div className='d-flex gap-1'>
        <img src={require("../Assets/image/downloding.jpeg")}  alt="" className='apply_img'/>
-       <p>Fill the application form carefully, attach colored size photograph and Self-attested photocopy of mark-sheet of last School/ Board Exam and Aadhar Card.</p>
+       <p style={{color:'#737E86' ,fontSize:'16px'}}>Fill the application form carefully, attach colored size photograph and Self-attested photocopy of mark-sheet of last School/ Board Exam and Aadhar Card.</p>
+       </div>
 
 <div class="black"></div>
+<div className='d-flex gap-1'>
 <img src={require("../Assets/image/downloding.jpeg")}  alt=""  className='apply_img'/>
-  <p>Deposit application form at any of CLC center where you wants to take admission.</p>
-
+  <p style={{color:'#737E86' ,fontSize:'16px'}}>Deposit application form at any of CLC center where you wants to take admission.</p>
+</div>
 <div class="black"></div>
+<div className='d-flex gap-1'>
 <img src={require("../Assets/image/downloding.jpeg")}  alt=""  className='apply_img'/>
-<p>Please Confirm your age, Eligibility & Domicile for next coming NEET/JEE Exam. CLC Will not be responsible for any matter regarding age, eligibility & domicile.</p>
-  
+<p style={{color:'#737E86' ,fontSize:'16px'}}>Please Confirm your age, Eligibility & Domicile for next coming NEET/JEE Exam. CLC Will not be responsible for any matter regarding age, eligibility & domicile.</p>
+  </div>
 <div class="black"></div>
 
 
@@ -368,43 +373,52 @@ function HowToApply() {
     
         <div class="skyblue"></div>
 <div class="para terms_mains">
-
+<div className='d-flex gap-1'>
   <img src={require("../Assets/image/downloding.jpeg")}  alt="" className='apply_img'/>
-    <p>BEAT the NEET,JEE & OLYMPIADS under the guidance of CLC. </p>  
+    <p  style={{color:'#737E86' ,fontSize:'16px'}}>BEAT the NEET,JEE & OLYMPIADS under the guidance of CLC. </p>  
+    </div>
        <div class="black"></div>
-
+       <div className='d-flex gap-1'>
        <img src={require("../Assets/image/downloding.jpeg")} alt=""  className='apply_img'/>
-    <p>Daily (6 day in a week) Face to face Classroom session by the CONFIDENT ,experienced and qualified faculties of CLC under the prescribed schedule.
+    <p style={{color:'#737E86' ,fontSize:'16px'}}>Daily (6 day in a week) Face to face Classroom session by the CONFIDENT ,experienced and qualified faculties of CLC under the prescribed schedule.
     </p>  
+    </div>
        <div class="black"></div>
-       
+       <div className='d-flex gap-1'>
        <img src={require("../Assets/image/downloding.jpeg")} alt=""  className='apply_img'/>
-    <p>COMPETENT Regular problem solving sessions with individual attention and caring of the student through problem solving counters for each subject.
+    <p style={{color:'#737E86' ,fontSize:'16px'}}>COMPETENT Regular problem solving sessions with individual attention and caring of the student through problem solving counters for each subject.
     </p>
+    </div>
        <div class="black"></div>
-  
+       <div className='d-flex gap-1'>
        <img src={require("../Assets/image/downloding.jpeg")} alt=""   className='apply_img'/>
-    <p>To provide competitive environment among students through periodic test after each 21 days.
+    <p style={{color:'#737E86' ,fontSize:'16px'}}>To provide competitive environment among students through periodic test after each 21 days.
     </p>  
+    </div>
        <div class="black"></div>
-
+       <div className='d-flex gap-1'>
        <img src={require("../Assets/image/downloding.jpeg")} alt="" className='apply_img'/>
-    <p>Mental boost up through Seminar & performance enhancement progrmme, creating healthy competitive spirit among student .
+    <p style={{color:'#737E86' ,fontSize:'16px'}}>Mental boost up through Seminar & performance enhancement progrmme, creating healthy competitive spirit among student .
     </p>  
+    </div>
        <div class="black"></div>
 
 
 
-    <div class="admissionbox">
-        <div class="box">
-        <h4>Admission Enquiry</h4>
-        <button class="buttonbox" type="button">Apply Now 
-          
-          <i class="fa-solid fa-download" style={{color: 'rgba(0,0,0,.5)', background : 'rgba(0,0,0,.05)'}}></i></button>
-     
-      </div>
-    
+       <div class="column mcb-column mcb-item-a55db3d12 one laptop-one tablet-one-second mobile-one column_column">
+        <div class="mcb-column-inner mfn-module-wrapper mcb-column-inner-a55db3d12 mcb-item-column-inner">
+          <div class="column_attr mfn-inline-editor clearfix" >
+            <div class="application-form-box">
+<div class="heading">
+<h4>Admission Enquiry </h4>
 </div>
+<div class="button-box">
+  <a class="button  has-icon button_right button_size_2" href="https://clcworld.in/mobile-verification" target="_blank" title="">
+    <span class="button_icon">
+      <i class="icon-download" aria-hidden="true"></i>
+      </span><span class="button_label" style={{fontSize:'17px'}}>Apply Now!</span></a>
+</div>
+</div></div></div></div>
 </div>
 </div>
 </div>

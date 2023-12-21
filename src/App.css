@@ -1310,6 +1310,9 @@ img {
   .topNav {
     display: none;
   }
+  .navbar-nav{
+    padding: 10px !important;
+  }
   .dropdown-toggle::after {
     display: inline-block !important;
   }
@@ -1321,6 +1324,9 @@ img {
     /* border: none; */
     /* background: rgba(0, 0, 0, 0.06) !important; */
     border-radius: 0px !important;
+  }
+  .navbar-nav{
+    padding: 10px !important;
   }
   .navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item {
     border-bottom: 2px solid #f5f5f5;
@@ -1374,6 +1380,9 @@ img {
     /* border: none; */
     /* background: rgba(0, 0, 0, 0.06) !important; */
     border-radius: 0px !important;
+  }
+  .navbar-nav{
+    padding: 10px !important;
   }
   .para p {
     line-height: 15px;
@@ -1429,6 +1438,9 @@ img {
     /* background: rgba(0, 0, 0, 0.06) !important; */
     border-radius: 0px !important;
   }
+  .navbar-nav{
+    padding: 10px !important;
+  }
   .para p {
     line-height: 15px;
   }
@@ -1477,6 +1489,9 @@ img {
 @media (max-width: 378px) {
   .our_classroom a {
     padding: 0px;
+  }
+  .navbar-nav{
+    padding: 10px !important;
   }
   .para p {
     line-height: 15px;
@@ -1537,6 +1552,9 @@ img {
     padding-left: 0px;
     padding-right: 0px;
   }
+  .navbar-nav{
+    padding: 10px !important;
+  }
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
     top: 63px !important;
@@ -1594,6 +1612,9 @@ img {
     padding: 0px;
     padding-left: 0px;
     padding-right: 0px;
+  }
+  .navbar-nav{
+    padding: 10px !important;
   }
   .para p {
     line-height: 15px;
@@ -1653,6 +1674,9 @@ img {
     padding-left: 0px;
     padding-right: 0px;
   }
+  .navbar-nav{
+    padding: 10px !important;
+  }
   .para p {
     line-height: 15px;
   }
@@ -1710,6 +1734,9 @@ img {
     padding: 0px;
     padding-left: 0px;
     padding-right: 0px;
+  }
+  .navbar-nav{
+    padding: 10px !important;
   }
   .para p {
     line-height: 15px;
@@ -1770,6 +1797,9 @@ img {
     padding-left: 0px;
     padding-right: 0px;
   }
+  .navbar-nav{
+    padding: 10px !important;
+  }
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
     top: 63px !important;
@@ -1828,6 +1858,9 @@ img {
     padding-left: 0px;
     padding-right: 0px;
   }
+  .navbar-nav{
+    padding: 10px !important;
+  }
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
     top: 63px !important;
@@ -1882,6 +1915,9 @@ img {
     padding: 0px;
     padding-left: 0px;
     padding-right: 0px;
+  }
+  .navbar-nav{
+    padding: 10px !important;
   }
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;

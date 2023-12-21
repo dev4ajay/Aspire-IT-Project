@@ -313,7 +313,7 @@ function Fees() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Based on X / XII Board Percentage Chart ?</div>
+            <div className='mt-3'>Based on X / XII Board Percentage Chart ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -499,7 +499,7 @@ function Fees() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Based on X / XII Board Percentage Chart ?</div>
+            <div className='mt-3'>Based on X / XII Board Percentage Chart ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">

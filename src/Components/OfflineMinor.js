@@ -334,7 +334,7 @@ function OfflineMinor() {
 <div class="title">
 
   <div class="row">
-    <h4 className='accordion_text'>Diamond Test Series for NEET-2023</h4>
+    <h4 className='accordion_text '>Diamond Test Series for NEET-2023</h4>
 
    
     
@@ -348,7 +348,7 @@ function OfflineMinor() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Solution & Key ?</div>
+            <div className='mt-3'>Solution & Key ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -483,7 +483,7 @@ function OfflineMinor() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Solution & Key ?</div>
+            <div  className='mt-3'>Solution & Key ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -574,7 +574,7 @@ function OfflineMinor() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Solution & Key ?</div>
+            <div  className='mt-3'>Solution & Key ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -664,7 +664,7 @@ function OfflineMinor() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Solution & Key ?</div>
+            <div  className='mt-3'>Solution & Key ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -753,7 +753,7 @@ function OfflineMinor() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Solution & Key ?</div>
+            <div  className='mt-3'>Solution & Key ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -843,7 +843,7 @@ function OfflineMinor() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Solution & Key ?</div>
+            <div  className='mt-3'>Solution & Key ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">

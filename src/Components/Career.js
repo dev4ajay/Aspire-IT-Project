@@ -440,10 +440,10 @@ function Career() {
                   <input type="file" name="file"/>
                   <div class="form-group">
                     <label for="InputName">Comment</label>
-                      <textarea class="form-control" id="exampleFormControlTextarea1" width="100%"></textarea>
+                      <textarea class="form-control" id="exampleFormControlTextarea1" width="100%" required="required"></textarea>
                   </div>
                 </form>
-                <button type="submit" class="btn btn-primary">Submit now</button>
+                <button type="submit" class="btn btn-primary mt-3">Submit now</button>
           </div>
         
 

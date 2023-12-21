@@ -353,7 +353,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>JEE Advanced - 2023 • 4 June 2023 ?</div>
+            <div className='mt-3'>JEE Advanced - 2023 • 4 June 2023 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -402,7 +402,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>NEET - 2023 • 7 May 2023 ?</div>
+            <div className='mt-3'>NEET - 2023 • 7 May 2023 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -463,7 +463,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>NEET - 2022 • 7 May 2022 ?</div>
+            <div className='mt-3'>NEET - 2022 • 7 May 2022 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -512,7 +512,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div> JEE Advanced - 2022 • 29 August 2022 ?</div>
+            <div className='mt-3'> JEE Advanced - 2022 • 29 August 2022 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -575,7 +575,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive  ? "-" : "+"}</div>
-            <div>NEET - 2021 • 12 Sept. 2021 ?</div>
+            <div className='mt-3'>NEET - 2021 • 12 Sept. 2021 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -622,7 +622,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive  ? "-" : "+"}</div>
-            <div>JEE Advanced - 2021 • 03 & 18 Oct. 2021 ?</div>
+            <div className='mt-3'>JEE Advanced - 2021 • 03 & 18 Oct. 2021 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -683,7 +683,7 @@ function ExamSolution() {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive  ? "-" : "+"}</div>
-            <div>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
+            <div className='mt-3'>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
           </div>
           {isActive && (
           <div className="accordion-content">
@@ -733,7 +733,7 @@ function ExamSolution() {
         onClick={() => setIsActive(!isActive)}
       >
         <div>{isActive  ? "-" : "+"}</div>
-        <div>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
+        <div className='mt-3'>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
       </div>
       {isActive && (
       <div className="accordion-content">
@@ -780,7 +780,7 @@ function ExamSolution() {
         onClick={() => setIsActive(!isActive)}
       >
         <div>{isActive  ? "-" : "+"}</div>
-        <div>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
+        <div className='mt-3'>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
       </div>
       {isActive && (
       <div className="accordion-content">
@@ -827,7 +827,7 @@ function ExamSolution() {
         onClick={() => setIsActive(!isActive)}
       >
         <div>{isActive  ? "-" : "+"}</div>
-        <div>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
+        <div className='mt-3'>JEE Advanced - 2020 • 03 & 18 Oct. 2020 ?</div>
       </div>
       {isActive && (
       <div className="accordion-content">

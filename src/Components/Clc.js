@@ -475,7 +475,7 @@ function Clc() {
               <div class="skyBlue_line"></div>
               <div class="container Foundation mt-5">
                 <div class="row mt-5">
-                  <div className="col-md-4 image-box">
+                  <div className="col-md-4 image-box mb-4">
                     {" "}
                     <img
                       src={require("../Assets/image/images 0.jpeg")}
@@ -483,7 +483,7 @@ function Clc() {
                       className="  clc_img"
                     />
                   </div>
-                  <div className="col-md-4 image-box">
+                  <div className="col-md-4 image-box mb-4 ">
                     {" "}
                     <img
                       src={require("../Assets/image/images1.jpeg")}
@@ -492,7 +492,7 @@ function Clc() {
                       className=" clc_img"
                     />
                   </div>
-                  <div className=" col-md-4 image-box">
+                  <div className=" col-md-4 image-box mb-4">
                     {" "}
                     <img
                       src={require("../Assets/image/image3.jpeg")}
@@ -503,7 +503,7 @@ function Clc() {
                 </div>
 
                 <div class="row mt-5">
-                  <div className="col-md-4 image-box">
+                  <div className="col-md-4 image-box mb-4">
                     {" "}
                     <img
                       src={require("../Assets/image/images4.jpeg")}
@@ -511,7 +511,7 @@ function Clc() {
                       className="  clc_img"
                     />
                   </div>
-                  <div className="col-md-4 image-box">
+                  <div className="col-md-4 image-box mb-4">
                     {" "}
                     <img
                       src={require("../Assets/image/images5.jpeg")}
@@ -519,7 +519,7 @@ function Clc() {
                       className=" clc_img "
                     />
                   </div>
-                  <div className="col-md-4 image-box">
+                  <div className="col-md-4 image-box mb-4">
                     {" "}
                     <img
                       src={require("../Assets/image/image6.jpeg")}
