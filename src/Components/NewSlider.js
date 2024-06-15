@@ -38,7 +38,7 @@ return(
 
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-    <span   aria-hidden="true"><img src={require("../Assets/image/download arrow right-PhotoRoom.png-PhotoRoom.png")} style={{width:'32px' }} className="arrow_btns"/></span>
+    <span   aria-hidden="true"><img src={require("../Assets/image/download arrow right-PhotoRoom.png-PhotoRoom.png")} style={{width:'30px' }} className="arrow_btns"/></span>
     <span class="visually-hidden">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
