@@ -1486,6 +1486,134 @@ img {
     display: block;
   }
 }
+@media (max-width: 576px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    top: 63px !important;
+    /* border: none; */
+    /* background: rgba(0, 0, 0, 0.06) !important; */
+    border-radius: 0px !important;
+  }
+  .navbar-toggler{
+    position: relative !important;
+    left: 100% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
+  .navbar-nav{
+    padding: 10px !important;
+  }
+  .para p {
+    line-height: 15px;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item {
+    border-bottom: 2px solid #f5f5f5;
+  }
+  .accordion-title {
+    gap: 2rem;
+  }
+  .main_header {
+    gap: 2rem;
+  }
+  .video-popup img {
+    width: 100%;
+  }
+  .Latest {
+    display: block;
+    left: 0px;
+    padding-left: 0px;
+  }
+  .Logo_footer {
+    display: block;
+  }
+  .group_col {
+    padding-top: 20px;
+  }
+  .main_ours span {
+    font-size: 47px;
+    line-height: 51px;
+  }
+  .main_Jee {
+    text-align: center;
+  }
+  .heading2 {
+    padding-top: 5px;
+    font-size: 28px;
+  }
+  .Leran_text {
+    letter-spacing: 3px !important;
+    font-size: 22px;
+  }
+  .slider_main {
+    display: block;
+  }
+}
+@media (max-width: 400px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    top: 63px !important;
+    /* border: none; */
+    /* background: rgba(0, 0, 0, 0.06) !important; */
+    border-radius: 0px !important;
+  }
+  .navbar-nav{
+    padding: 10px !important;
+  }
+  .para p {
+    line-height: 15px;
+  }
+  .navbar-expand-lg .navbar-nav .dropdown-menu .dropdown-item {
+    border-bottom: 2px solid #f5f5f5;
+  }
+  .accordion-title {
+    gap: 2rem;
+  }
+  .main_header {
+    gap: 2rem;
+  }
+  .video-popup img {
+    width: 100%;
+  }
+  .Latest {
+    display: block;
+    left: 0px;
+    padding-left: 0px;
+  }
+  .Logo_footer {
+    display: block;
+  }
+  .group_col {
+    padding-top: 20px;
+  }
+  .main_ours span {
+    font-size: 47px;
+    line-height: 51px;
+  }
+  .main_Jee {
+    text-align: center;
+  }
+  .heading2 {
+    padding-top: 5px;
+    font-size: 28px;
+  }
+  .Leran_text {
+    letter-spacing: 3px !important;
+    font-size: 22px;
+  }
+  .slider_main {
+    display: block;
+  }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
+}
 @media (max-width: 378px) {
   .our_classroom a {
     padding: 0px;
@@ -1544,6 +1672,14 @@ img {
   }
   .slider_main {
     display: block;
+  }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
   }
 }
 @media (max-width: 364px) {
@@ -1606,6 +1742,14 @@ img {
   .slider_main {
     display: block;
   }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
 }
 @media (max-width: 354px) {
   .our_classroom a {
@@ -1666,6 +1810,14 @@ img {
   }
   .slider_main {
     display: block;
+  }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
   }
 }
 @media (max-width: 340px) {
@@ -1728,6 +1880,14 @@ img {
   .slider_main {
     display: block;
   }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
 }
 @media (max-width: 335px) {
   .our_classroom a {
@@ -1788,6 +1948,14 @@ img {
   }
   .slider_main {
     display: block;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
   }
 }
 
@@ -1851,6 +2019,14 @@ img {
   .slider_main {
     display: block;
   }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
 }
 @media (max-width: 300px) {
   .our_classroom a {
@@ -1909,6 +2085,10 @@ img {
   .slider_main {
     display: block;
   }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
+  }
 }
 @media (max-width: 290px) {
   .our_classroom a {
@@ -1966,5 +2146,13 @@ img {
   }
   .slider_main {
     display: block;
+  }
+  .navbar-toggler{
+    position: relative !important;
+    left: 45% !important;
+  }
+  .logo-img{
+    width: 62% !important;
+    padding-left: 9% !important;
   }
 }

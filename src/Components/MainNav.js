@@ -11,7 +11,7 @@ const MainNav = () => {
         <div className="container d-flex main_header">
           <div className="navbar_m"> 
             <a class="navbar-brand" href="#">
-              <img src={ImagePath.logo}></img>
+              <img src={ImagePath.logo} className="logo-img" ></img>
             </a>
             <button
               class="navbar-toggler"

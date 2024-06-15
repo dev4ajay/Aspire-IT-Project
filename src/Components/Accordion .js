@@ -13,7 +13,7 @@ const Accordion = () => {
             onClick={() => setIsActive(!isActive)}
           >
             <div>{isActive ? "-" : "+"}</div>
-            <div>Have A Questions ?</div>
+            <div className="mt-3">Have A Questions ?</div>
           </div>
           {isActive && (
             <div className="accordion-content">
